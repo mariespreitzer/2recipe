@@ -2,3 +2,5 @@ Couscous-Salad
 - Couscous
 - Tomatoes
 - Cucumber
+- Pepper
+- Onions
